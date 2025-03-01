@@ -90,23 +90,4 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabguban&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabguban&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
----
-
-### 🚀 Latest Projects:
-- 🌐 **[Project 1](#)** - Short description
-- 🚀 **[Project 2](#)** - Short description
-- 💻 **[Project 3](#)** - Short description
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabguban&theme=darkhub" alt="GitHub Trophies" />
-</p>
