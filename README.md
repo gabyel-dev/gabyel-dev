@@ -41,7 +41,7 @@
 #### 🏗️ Frameworks:
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="flask" width="40" height="40"/>
   </a> 
 </p>
 
