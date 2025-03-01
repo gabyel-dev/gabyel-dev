@@ -27,7 +27,6 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-### 🛠️ Tech Stack:
 <p align="left"> 
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -47,7 +46,7 @@
 
   <!-- Frameworks -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="border-radius: 8px;" />
+    <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" width="40" height="40" style="border-radius: 8px;" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="border-radius: 8px;" />
