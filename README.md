@@ -84,4 +84,10 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabyel-dev&show_icons=true&locale=en&layout=compact" alt="gabyel-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabyel-dev&show_icons=true&locale=en" alt="gabyel-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabyel-dev&" alt="gabyel-dev" /></p>
+
 
