@@ -17,10 +17,10 @@
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/gab-guban-474237334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gab-guban-474237334/" height="30" width="40" />
   </a>
   <a href="https://fb.com/gab.guban" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gab.guban" height="30" width="40" />
   </a>
 </p>
 
