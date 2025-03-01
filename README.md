@@ -46,13 +46,6 @@
 
 #### ⚙️ Backend:
 <p align="left">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a> 
-</p>
-
-#### 🏗️ Frameworks:
-<p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   </a> 
