@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Guban</h1>
-<h3 align="center">A Full-Stack Developer from the Philippines</h3>
+<h3 align="center">A Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabguban&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
