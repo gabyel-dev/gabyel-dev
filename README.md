@@ -1,155 +1,111 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Hi, I'm Gabriel Guban
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-<h3 align="center">🚀 Full-Stack Developer | Passionate about creating digital solutions</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabguban&label=Profile%20Views&color=blue&style=for-the-badge" alt="profile views" />
-</p>
-
----
+<h3 align="center">💻 Full-Stack Developer | 🚀 Building Digital Experiences</h3>
 
 <div align="center">
-
-### 💫 Currently
-- 🌱 Learning **ReactJS & Advanced JavaScript**
-- 🔭 Working on **Full-Stack Projects**
-- 🎯 Focused on **Clean Code & Best Practices**
-
-### 📬 Get in Touch
-- 📧 Email: **gabguban7777@gmail.com**
-- 💼 LinkedIn: [Gabriel Guban](https://www.linkedin.com/in/gab-guban-474237334/)
-- 🌐 Portfolio: *Coming Soon*
-
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=gabguban&label=Profile+Views&color=blue&style=flat-square)
+  
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 About Me
 
-### 💻 Frontend
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-</p>
+**Full-Stack Development, Web Technologies, API Integration**
 
-### 🔧 Backend & Databases
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-</p>
+---
 
-### ⚙️ Tools & Others
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### 💻 Backend & Databases
+<div align="center">
+  
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" />
+
+</div>
+
+### 🎨 Frontend & Styling
+<div align="center">
+  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="Tailwind CSS" />
+
+</div>
+
+### ⚙️ Tools & Platforms
+<div align="center">
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
   
-  <!-- GitHub Stats Cards -->
-  <a href="https://github.com/gabyel-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabyel-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Gabriel's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyel-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/gabyel-dev">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabyel-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <!-- Stats Card -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabyel-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide=prs" />
+  
+  <!-- Streak Stats -->
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabyel-dev&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&fire=58A6FF&ring=58A6FF" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 💻 Most Used Languages
 
-### 🔥 Project 1: [Project Name]
-> Brief description of your amazing project
-- **Tech Stack:** React, Flask, PostgreSQL
-- **Features:** Feature 1, Feature 2, Feature 3
-- [🔗 Live Demo](#) | [📁 Repository](#)
-
-### 🚀 Project 2: [Project Name]
-> Another impressive project description
-- **Tech Stack:** HTML, CSS, JavaScript, MySQL
-- **Features:** Feature 1, Feature 2
-- [🔗 Live Demo](#) | [📁 Repository](#)
+<div align="center">
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyel-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8&hide=html,css,scss,less" />
+  
+</div>
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <a href="https://github.com/gabyel-dev">
-    <img src="https://activity-graph.herokuapp.com/graph?username=gabyel-dev&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-  </a>
-</p>
+## 🚀 Current Focus
+
+<div align="center">
+
+**🌱 Learning:** ReactJS, Advanced JavaScript  
+**💼 Working On:** Full-Stack Projects  
+**🎯 Goals:** Master Modern Web Development
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gab-guban-474237334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/gab.guban" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:gabguban7777@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gab-guban-474237334/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/gab.guban)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabguban7777@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ Fun Fact
-> "I turn coffee into code ☕ → 💻"
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-### 🎯 2024 Goals
-- [ ] Master ReactJS & Next.js
-- [ ] Build 5+ Full-Stack Projects
-- [ ] Contribute to Open Source
-- [ ] Learn DevOps Basics
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile! Have a great day! 😄</i>
-</p>
+</div>
