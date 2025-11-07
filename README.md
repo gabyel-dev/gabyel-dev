@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="Tailwind CSS" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tailwind_CSS_logo_with_dark_text.svg/2560px-Tailwind_CSS_logo_with_dark_text.svg.png" width="50" height="50" title="Tailwind CSS" />
 
 </div>
 
