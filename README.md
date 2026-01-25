@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-**Full-Stack Development, Web Technologies, API Integration**
+**Full-Stack Developer**
 
 ---
 
@@ -25,9 +25,7 @@
 <div align="center">
   
   <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" title="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL" />
+  <img src="https://firebase.google.com/brand-guidelines" width="50" height="50" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" />
 
 </div>
@@ -38,6 +36,8 @@
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" />
+
+  <img src="  https://www.google.com/imgres?q=nodejs%20logo&imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F303360%2Fnodejs-logo.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303360%2Fnodejs-logo&docid=lOX1Hmv264HgjM&tbnid=DHFZ9738_qIX2M&vet=12ahUKEwi0w9K_5aaSAxWWsVYBHTRRA-8QM3oECBcQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwi0w9K_5aaSAxWWsVYBHTRRA-8QM3oECBcQAA" width="50" height="50" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
 <img src="https://code.dlang.org/packages/tailwind-d/logo?s=650228a573eaa51f8ceded68" width="50" height="50" title="Tailwind CSS" />
