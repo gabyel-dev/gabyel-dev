@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-**Full-Stack Developer** passionate about creating efficient, scalable web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+**Full-Stack Developer** I'm creating efficient, scalable web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
@@ -83,15 +83,6 @@
 
 ---
 
-## 📈 GitHub Contributions
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gabyel-dev&theme=react-dark&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF)
-  
-</div>
-
----
 
 ## 🚀 Current Focus
 
@@ -101,16 +92,6 @@
 **💼 Working On:** Full-Stack Projects with Modern Stack  
 **🎯 Goals:** Master Modern Web Development & Cloud Technologies
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=gabyel-dev&theme=radical&no-frame=true&row=2&column=4)
-  
 </div>
 
 ---
@@ -126,10 +107,4 @@
 
 </div>
 
----
 
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quotes" />
-
-</div>
