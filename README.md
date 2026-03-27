@@ -20,8 +20,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Backend & Databases
 <div align="center">
   
   <!-- Backend -->
@@ -34,16 +32,8 @@
 
 </div>
 
-### 🎨 Frontend & Styling
 <div align="center">
-  
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
-  <img src="https://code.dlang.org/packages/tailwind-d/logo?s=650228a573eaa51f8ceded68" width="50" height="50" title="Tailwind CSS" />
-
 </div>
 
 ### ⚙️ Tools & Platforms
