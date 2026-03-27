@@ -21,8 +21,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  
-  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" />
@@ -32,11 +31,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
-</div>
-
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 <div align="center">
   
   <!-- Tools -->
@@ -49,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
   
@@ -58,29 +53,6 @@
   
   <!-- Streak Stats -->
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabyel-dev&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&fire=58A6FF&ring=58A6FF" />
-
-</div>
-
----
-
-## 💻 Most Used Languages
-
-<div align="center">
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabyel-dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
-  
-</div>
-
----
-
-
-## 🚀 Current Focus
-
-<div align="center">
-
-**🌱 Learning:** ReactJS, Advanced JavaScript, TypeScript, Next.js  
-**💼 Working On:** Full-Stack Projects with Modern Stack  
-**🎯 Goals:** Master Modern Web Development & Cloud Technologies
 
 </div>
 
