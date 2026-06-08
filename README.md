@@ -5,21 +5,17 @@
 </h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=gabguban&label=Profile+Views&color=blue&style=flat-square)
-  
-</div>
+
 
 ---
 
-## 🎯 About Me
+## About Me
 
 **Full-Stack Developer** I'm creating efficient, scalable web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <table align="center">
   <tr>
    <td><img src="https://cdn.brandfetch.io/id2alue-rx/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="50" height="50" title="React" /></td>
@@ -33,7 +29,7 @@
 
 </table>
 
-### ⚙️ Tools
+### Tools
 <table align="center">
   
   <!-- Tools -->
@@ -61,7 +57,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
